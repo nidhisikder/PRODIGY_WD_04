@@ -1,0 +1,42 @@
+body{
+  background-color: #BFCBC3;
+  height:100%;
+
+}
+  .heading{
+    background-color: #E6CCBE;
+    margin:auto;
+    text-align: center;
+    height:5rem;
+    
+
+  }
+
+  aside{
+    width:15%;
+    height:100%;
+    margin:auto;
+    float: left;
+    flex-direction: column;
+    background-color: #d8889f;
+    padding-top:10%;
+    padding-bottom: 50%;
+  }    
+  .nav-ele{
+    margin: 5px;
+    padding:10px;
+    border-radius:2px;
+    display:flex;
+    height:1%;
+    justify-content:center;
+    text-align: center;
+  }
+  .main{
+    background-color: #7E91AC;
+
+
+  }
+  .content{
+    background-color: #C8CC92;
+    text-align: center;
+  }
